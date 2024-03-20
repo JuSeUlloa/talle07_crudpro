@@ -1,0 +1,9 @@
+---------------------------------------
+///////// Librerias //////////////////
+---------------------------------------
+
+npm i bootstrap
+npm i @fortawesome/fontawesome-free
+
+npm i react-router-dom
+npm i react-bootstrap
